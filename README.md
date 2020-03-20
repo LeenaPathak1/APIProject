@@ -1,0 +1,2 @@
+- API automation project built using Selenium WebDriver and RestAssured library
+- It uses Cucumber and TestNG features.
